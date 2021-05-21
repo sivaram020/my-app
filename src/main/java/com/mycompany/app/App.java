@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!!!v5.0" );
+        System.out.println( "Hello World!!!v6.0" );
     }
 }
